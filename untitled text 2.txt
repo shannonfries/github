@@ -1,0 +1,9 @@
+Github Project
+================
+
+these are files for a github course at Stanford
+
+Important Links
+---------------
+
+*[Stanford] (http://stanford.edu)
